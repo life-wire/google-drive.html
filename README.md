@@ -1,6 +1,6 @@
 # Google Drive
 
-[![Google Drive](red2.png)](https://github.com/life-wire/google-drive.html)
+[![Google Drive](red2.png)](https://icncomputer.com/what-is-google-drive/)
 
 In order to use Google Drive, you will need a Google account. Google accounts are free, and signing up for one is fairly simple. In order to create a Google account, you'll need to enter some information, including your name, birth date, and location. Creating a Google account will automatically create a Gmail email address and a Google+ profile.
 
